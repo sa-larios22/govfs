@@ -14,7 +14,7 @@ This project simulates a complete EXT2/EXT3 file system on top of binary disk im
 - A web-based GUI for visual exploration of the file system
 - Graphviz reports for every internal structure
 
-A detailed explanation of the functionality can be read [here](./docs/details.md)
+A detailed explanation of the functionality can be read [here](./docs/DETAILS.md)
 
 ## Features
 
