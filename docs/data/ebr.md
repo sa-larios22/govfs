@@ -15,3 +15,5 @@ The EBR is a descriptor of a logical unit, as it contains the unit's information
 In this case, it is taken into account that partition 2 is an extended partition, and, similarly to the previous case, space is reserved for writing to the logical drives with their respective EBRs.
 
 ![Partition 2 storage](./img/ebr-02.png)
+
+In this case, two logical partitions are simulated, and the last EBR knows where the next EBR will be written; the part named "logical" is space reserved for other structures.
